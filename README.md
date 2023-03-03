@@ -26,5 +26,5 @@ Me chamo **Bruno** mas podem me chamar de ✨ _Rasq_ ✨.
  <a href="brunodiasrasquinha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="+55 48 99612-3814" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href="https://github.com/Bruno-rasq" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
- <a href="https://yonebayashiduh.artstation.com/" target="_blank"><img height="30" width="40" src="https://media.discordapp.net/attachments/759134066926288929/1080860458493427783/icons8-artstation-48.png">
+ <a href="https://yonebayashiduh.artstation.com/" target="_blank"><img height="30" width="90" src="https://media.discordapp.net/attachments/759134066926288929/1081072667538501684/98_Sem_Titulo.png">
 </div>
