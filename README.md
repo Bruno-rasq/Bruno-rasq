@@ -17,6 +17,9 @@ Me chamo **Bruno** mas podem me chamar de ✨ _Rasq_ ✨.
   <img align="center" alt="rasq-GitHub" height="30" width="90" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="Rasq-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Rasq-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >
+
+- XAMPP <br>
+- MySQL Workbench
 </div>
 
 ##
