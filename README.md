@@ -4,10 +4,10 @@ Me chamo **Bruno** mas podem me chamar de ✨ _Rasq_ ✨.
 
 - 🌱 Atualmente estou estudando Tecnologias Front-End ...
 - 😄 Pronomes: ELE/ DELE ...
-- ⚡ Fato Engraçado: Eu tenho medo de Borboletas ...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rasq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rasq-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rasq-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rasq-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rasq-PHP" height="30" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
