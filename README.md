@@ -5,9 +5,8 @@ Me chamo **Bruno** mas podem me chamar de ✨ _Rasq_ ✨.
 - 🌱 Atualmente estou estudando Tecnologias Front-End ...
 - 😄 Pronomes: ELE/ DELE ...
 
-
-<h2> #Tecnologias/ferramentas/linguagens que estudo/utilizo.</h2>
 <div style="display: inline_block"><br>
+  <h2> #Tecnologias/ferramentas/linguagens que estudo/utilizo.</h2>
   <img align="center" alt="Rasq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rasq-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rasq-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,4 +31,5 @@ Me chamo **Bruno** mas podem me chamar de ✨ _Rasq_ ✨.
  <a href="brunodiasrasquinha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="+55 48 99612-3814" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href="https://github.com/Bruno-rasq" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://pt.stackoverflow.com/users/320872/bruno-d-r?tab=profile" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
 </div>
