@@ -1,26 +1,21 @@
 ### Olá pessoal! tranquilo? 👋
 
-Me chamo **Bruno** mas podem me chamar de ✨ _Rasq_ ✨. 
+Me chamo **Bruno** mas podem me chamar de ✨ _Rasq_ ✨.
 
-- 🌱 Atualmente estou estudando Tecnologias Front-End ...
-- 😄 Pronomes: ELE/ DELE ...
+- 🌱 Atualmente estou estudando Tecnologias Front-End 
+- 😄 Pronomes: ELE/ DELE 
 
 <div style="display: inline_block"><br>
   <h2> #Tecnologias/ferramentas/linguagens que estudo/utilizo.</h2>
   <img align="center" alt="Rasq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rasq-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Rasq-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rasq-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rasq-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Rasq-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Rasq-bootstrap" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Rasq-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rasq-MySQL" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="rasq-GitHub" height="30" width="90" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Rasq-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Rasq-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Rasq-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" ><br>
-  
-  - XAMPP
-  - MySQL Workbench
-  - Gimp
+  <img align="center" alt="Rasq-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >
+  <img align="center" alt="Rasq-MySQL" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
 </div>
 
 ##
