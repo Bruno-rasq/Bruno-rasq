@@ -1,12 +1,13 @@
 ### Olá pessoal! tranquilo? 👋
 
 Me chamo **Bruno** mas podem me chamar de ✨ _Rasq_ ✨.
+tenho 21 anos, sou de Santa-Catarina e estou estudando front-end em busca de conhecimento ("Apenas busquem conhecimento" ~ E.T Bilu) e futuramente uma vaga de emprego nesse ramo do desenvolvimento web. Atualmente estou em um nivel iniciante mas busco evoluir e aprender mais a cada dia! um passo de cada vez, uma skill de cada vez..
 
-- 🌱 Atualmente estou estudando Tecnologias Front-End 
-- 😄 Pronomes: ELE/ DELE 
+Além do desenvolvimento web, também tenho interesse na parte do back-end e aplicações Mobile. mas isso é coisa para um futuro não tão distante...
+
 
 <div style="display: inline_block"><br>
-  <h2> #Tecnologias/ferramentas/linguagens que estudo/utilizo.</h2>
+  <h2> #Skills nivel Iniciante.</h2>
   <img align="center" alt="Rasq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rasq-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rasq-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
