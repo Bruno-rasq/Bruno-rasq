@@ -1,4 +1,4 @@
-Olá pessoal! tranquilo? 👋
+Oi! 👋
 
 Me chamo **Bruno**,
 tenho 21 anos, sou de Santa-Catarina e estou estudando front-end.
