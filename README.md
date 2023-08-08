@@ -1,10 +1,16 @@
-Oi! 👋
+Oi! 🖖, Me chamo **Bruno**, tenho 21 anos, sou de Santa-Catarina.
 
-Me chamo **Bruno**,
-tenho 21 anos, sou de Santa-Catarina e estou estudando front-end.
+<h2>Sou iniciante no Front-end</h2>
+
+<ul>
+  <li> 📦 Atualmente estou trabalhando em projetos pessoais.</li>
+  <li> 📙 Estudo tecnologias da área do Front-end.</li>
+  <li> 🕵️‍♂️ Adoro resolver questões de lógica.</li>
+  <li> 💪 Nas minhas horas vagas gosto de desenhar ou fazer musculação.</li>
+</ul>
 
 <div style="display: flex"><br>
-  <h2>Skills.</h2>
+  <h4>linguagen e ferramentas</h4>
   <img align="center" alt="Rasq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--img align="center" alt="Rasq-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"-->
   <img align="center" alt="Rasq-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
