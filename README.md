@@ -19,7 +19,7 @@ Oi! 🖖, Me chamo **Bruno**, tenho 21 anos, sou de Santa-Catarina.
    <img align="center" alt="Rasq-tailwind" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
    <img align="center" alt="Rasq-SASS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 <!--   <img align="center" alt="Rasq-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> -->
-<!--   <img align="center" alt="Rasq-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> -->
+ <img align="center" alt="Rasq-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <!--   <img align="center" alt="Rasq-MySQL" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">  -->
 </div>
 
