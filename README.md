@@ -21,7 +21,6 @@ Oi! 🖖, Me chamo **Bruno**, tenho 22 anos, sou de Santa-Catarina.
 <!--   <img align="center" alt="Rasq-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> -->
  <img align="center" alt="Rasq-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <!--   <img align="center" alt="Rasq-MySQL" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">  -->
-   <a href="https://www.beecrowd.com.br/judge/pt/profile/510115" target="blank"><img align="center" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-Lucas-Marcuzo" height="40" width="40" />
-    </a>
+   <img align="center" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" height="40" width="40" />
 </div>
 
