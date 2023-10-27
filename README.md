@@ -1,28 +1,35 @@
-## HI! 
+```javascript
+class Person{
+    constructor(name, role){
+        this.name = name
+        this.role = role
+    }
 
-<div align='center'>
-  <p>Oi!, Meu nome é Bruno mas todo mundo me chama de Rasquinha, Eu tenho 22 anos e comecei a gostar de programação <br> na faculdade.
-  Porém eu não curso TI ou nada do tipo... eu faço Engenharia de energias pela Universidade Federal de Santa Catarina - UFSC.<br>
+    say_hi(){
+        console.log(`${this.role} ${this.name} Say, hi! ;)`)
+    }
+};
+
+const Me = new Person('Rasquinha', 'Dev')
+Me.say_hi()
+
+```
+
+<div>
+  <p>Oi!, Meu nome é Bruno mas todo mundo me chama de Rasquinha, Eu tenho 22 anos e comecei a gostar de programação na faculdade.
+  Porém eu não curso TI ou nada do tipo... eu faço Engenharia de energias pela Universidade Federal de Santa Catarina - UFSC.
    Foi nas Aulas de lógica de programação que finalmente descobri algo que eu realmente Amo fazer que é programar... e é isso que venho fazendo.<br>
   Eu estudo e prático sozinho quase todos os dias há quase 1 ano e meio.</p>
+  <br>
+  <div>
+    <ul>
+      <li> 📦 Atualmente estou trabalhando em projetos pessoais.</li>
+      <li> 📙 Estudo tecnologias da área do Front-end.</li>
+      <li> 🕵️‍♂️ Meu Hobby é resolver questões de lógica.</li>
+      <li> 💪 Nas minhas horas vagas gosto de desenhar ou fazer musculação.</li>
+    </ul>
+  </div>
 </div>
-
-<div align='center'>
-    <h2>Contatos</h2>
-    <div>
-        <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' href='' target='_blank'></img>
-        <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' href='' target='_blank'></img>
-        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' href='' target='_blank'></img>
-    </div>
-</div>
-
-## Sobre 
-<ul>
-    <li> 📦 Atualmente estou trabalhando em projetos pessoais.</li>
-    <li> 📙 Estudo tecnologias da área do Front-end.</li>
-    <li> 🕵️‍♂️ Meu Hobby é resolver questões de lógica.</li>
-    <li> 💪 Nas minhas horas vagas gosto de desenhar ou fazer musculação.</li>
-</ul>
 
 <div align='center'>
    <h2> &#129304; Linguagens e Ferramentas </h2>
@@ -38,5 +45,3 @@
        <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'></img>
   </div>
 </div>
-
-
