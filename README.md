@@ -15,11 +15,14 @@ Me.say_hi()
 
 ```
 
+[![](https://img.shields.io/badge/-@Rasquinha__-%23181717?style=flat-square&logo=github)](https://github.com/Bruno-rasq)
+![](https://img.shields.io/badge/-001.07.22_-%23181717?style=flat-square&logo=instagram)
+
+
 <div>
-  <p>Oi!, Meu nome é Bruno mas todo mundo me chama de Rasquinha, Eu tenho 22 anos e comecei a gostar de programação na faculdade.
-  Porém eu não curso TI ou nada do tipo... eu faço Engenharia de energias pela Universidade Federal de Santa Catarina - UFSC.
-   Foi nas Aulas de lógica de programação que finalmente descobri algo que eu realmente Amo fazer que é programar... e é isso que venho fazendo.<br>
-  Eu estudo e prático sozinho quase todos os dias há quase 1 ano e meio.</p>
+  <p>Oi!, Meu nome é Bruno mas todo mundo me chama de Rasquinha, tenho 22 anos e comecei a gostar de programação na faculdade.
+  eu curso Engenharia de energias pela Universidade Federal de Santa Catarina - UFSC. e
+   Foi nas Aulas de lógica de programação que finalmente descobri algo que eu realmente Amo fazer, que é programar... e é isso que venho fazendo.</p>
   <br>
   <div>
     <ul>
@@ -45,3 +48,6 @@ Me.say_hi()
        <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'></img>
   </div>
 </div>
+
+
+
