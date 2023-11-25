@@ -17,7 +17,6 @@ Me.say_hi()
 
 [![](https://img.shields.io/badge/-@Rasquinha__-%23181717?style=flat-square&logo=github)](https://github.com/Bruno-rasq)
 ![](https://img.shields.io/badge/-001.07.22_-%23181717?style=flat-square&logo=instagram)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 
