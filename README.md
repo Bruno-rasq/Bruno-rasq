@@ -9,7 +9,7 @@ while(waitingForfeedbacks()){
 
 ```
 
-[![](https://img.shields.io/badge/-@Rasquinha__-%23181717?style=flat-square&logo=github)](https://github.com/Bruno-rasq)
+[![](https://img.shields.io/badge/-Rasq__-%23181717?style=flat-square&logo=github)](https://github.com/Bruno-rasq)
 ![](https://img.shields.io/badge/-001.07.22_-%23181717?style=flat-square&logo=instagram)
 
 
@@ -30,18 +30,18 @@ while(waitingForfeedbacks()){
 </div>
 
 <div align='center'>
-   <h2> &#129304; Linguagens e Ferramentas </h2>
+   <h2> &#129304; Tech Stack</h2>
     <div>
-        <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'></img>
-       <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'></img>
-       <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'></img>
-       <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'></img>
-       <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'></img>
-       <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'></img>
-       <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'></img><br>
-       <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'></img>
-       <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'></img>
-       <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'></img>
+        <img src='https://img.shields.io/badge/TypeScript-%23181717?style=flat-square&logo=typescript'></img>
+       <img src='https://img.shields.io/badge/JavaScript-%23181717?style=flat-square&logo=javascript'></img>
+       <img src='https://img.shields.io/badge/Node.js-%23181717?style=flat-square&logo=node.js'></img>
+       <img src='https://img.shields.io/badge/PHP-%23181717?style=flat-square&logo=php'></img>
+       <img src='https://img.shields.io/badge/HTML5-%23181717?style=flat-square&logo=html5'></img>
+       <img src='https://img.shields.io/badge/CSS3-%23181717?style=flat-square&logo=css3'></img>
+       <img src='https://img.shields.io/badge/Sass-%23181717?style=flat-square&logo=sass'></img><br>
+       <img src='https://img.shields.io/badge/Bootstrap-%23181717?style=flat-square&logo=bootstrap'></img>
+       <img src='https://img.shields.io/badge/Tailwind_CSS-%23181717?style=flat-square&logo=tailwind-css'></img>
+       <img src='https://img.shields.io/badge/MySQL-%23181717?style=flat-square&logo=mysql'></img>
   </div>
 </div>
 
