@@ -30,7 +30,7 @@ while(waitingForfeedbacks()){
 </div>
 
 <div align='center'>
-   <h2> &#129304; Tech Stack</h2>
+   <h2> &#x2615; Tech Stack &#x1f50b; </h2>
     <div>
         <img src='https://img.shields.io/badge/TypeScript-%23181717?style=flat-square&logo=typescript'></img>
        <img src='https://img.shields.io/badge/JavaScript-%23181717?style=flat-square&logo=javascript'></img>
