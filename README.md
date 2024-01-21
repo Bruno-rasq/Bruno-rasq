@@ -39,6 +39,8 @@ while(waitingForfeedbacks()){
        <img src='https://img.shields.io/badge/Bootstrap-%23181717?style=flat-square&logo=bootstrap'></img>
        <img src='https://img.shields.io/badge/Tailwind_CSS-%23181717?style=flat-square&logo=tailwind-css'></img>
        <img src='https://img.shields.io/badge/MySQL-%23181717?style=flat-square&logo=mysql'></img>
+        <img src='https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white'>
+    </img>
   </div>
 </div>
 
