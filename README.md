@@ -1,3 +1,5 @@
+<h1>👋 olá! 👋</h1>
+
 ```javascript
 while(waitingForfeedbacks()){
 
@@ -18,10 +20,8 @@ while(waitingForfeedbacks()){
   <br>   
   <div>
     <ul>
-      <li> &#x1f50b; Atualmente estou desenvolvendo projetos pessoais.</li>
+      <li> &#x1f50b; Atualmente estou estudando e desenvolvendo projetos pessoais.</li>
       <li> &#x1F4DA; Estudo tecnologias de desenvolvimento web com foco em Front-End</li>
-      <li> &#x1F3C6; Meu Hobby é resolver questões de lógica.</li>
-      <li> 💪 Nas minhas horas vagas gosto de desenhar ou fazer musculação.</li>
     </ul>
   </div>
 </div>
@@ -42,6 +42,9 @@ while(waitingForfeedbacks()){
         <img src='https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white'>
     </img>
   </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+    
 </div>
 
 <div align='center'>
@@ -49,6 +52,3 @@ while(waitingForfeedbacks()){
     <img src='https://img.shields.io/badge/-001.07.22_-%23181717?style=flat-square&logo=instagram'></img>
     <a href='https://github.com/Bruno-rasq' target='_blank'><img src='https://img.shields.io/badge/-Rasq__-%23181717?style=flat-square&logo=github'></img></a>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rasq&layout=compact)
-
