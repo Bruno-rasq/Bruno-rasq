@@ -50,3 +50,5 @@ while(waitingForfeedbacks()){
     <a href='https://github.com/Bruno-rasq' target='_blank'><img src='https://img.shields.io/badge/-Rasq__-%23181717?style=flat-square&logo=github'></img></a>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rasq&layout=compact)
+
