@@ -27,8 +27,9 @@ while(waitingForfeedbacks()){
 </div>
 
 <div align='center'>
-   <h2> &#x2615; Tech Stack &#x2615; </h2>
+   <h2> Tech Stack </h2>
     <div>
+        <img src="https://img.shields.io/badge/React-%23181717?style=flat-square&logo=react&logoColor=61DAFB"></img>
         <img src='https://img.shields.io/badge/TypeScript-%23181717?style=flat-square&logo=typescript'></img>
        <img src='https://img.shields.io/badge/JavaScript-%23181717?style=flat-square&logo=javascript'></img>
        <img src='https://img.shields.io/badge/Node.js-%23181717?style=flat-square&logo=node.js'></img>
@@ -39,8 +40,11 @@ while(waitingForfeedbacks()){
        <img src='https://img.shields.io/badge/Bootstrap-%23181717?style=flat-square&logo=bootstrap'></img>
        <img src='https://img.shields.io/badge/Tailwind_CSS-%23181717?style=flat-square&logo=tailwind-css'></img>
        <img src='https://img.shields.io/badge/MySQL-%23181717?style=flat-square&logo=mysql'></img>
-        <img src='https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white'>
+        <img src='https://img.shields.io/badge/-jest-%23181717?style=flat-square&logo=jest&logoColor=white'>
     </img>
+
+
+        
   </div>
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rasq&layout=compact'/></img>
