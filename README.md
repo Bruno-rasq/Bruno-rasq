@@ -1,7 +1,30 @@
 <h3>Oi! Seja bem-vindo ao meu lugarzinho mágico onde eu guardo minhas magias e feitiços.</h3>
 <h4></h4>
 
-<h6>#DesenvolvimentoWeb #FrontEnd </h6>
+<h6>#DesenvolvimentoWeb #FrontEnd #Estudando...</h6>
+<div display='flex'>
+    <img src="https://img.shields.io/badge/Instagram-7289DA?style=flat-square&logo=instagram&logoColor=fff">
+    <a href='https://www.instagram.com/001.07.22?igsh=MWQyeHA2dm9iNDE3aw==' target='_blank'/>
+</img>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=fff">
+        <a href='https://discord.com/invite/rFK2tJTr' target='_blank'/>
+    </img>
+<img src="https://img.shields.io/badge/Linkedin-7289DA?style=flat-square&logo=linkedin&logoColor=fff">
+            <a href='' target='_blank'/>
+        </img>
+<img src="https://img.shields.io/badge/Gmail-7289DA?style=flat-square&logo=gmail&logoColor=fff">
+                <a href='brunodiasrasquinha@gmail.com' target='_blank'/>
+            </img>
+<img src="https://img.shields.io/badge/Replit-7289DA?style=flat-square&logo=replit&logoColor=fff">
+                    <a href='https://replit.com/@brunodiasrasquinha' target='_blank'/>
+                </img>
+</div>
+
+
+
+
+
+
 
 ```javascript
 while(waitingForfeedbacks()){
