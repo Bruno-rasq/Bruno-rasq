@@ -57,7 +57,7 @@ while(waitingForfeedbacks()){
        <img src='https://img.shields.io/badge/Node.js-%23181717?style=flat-square&logo=node.js'></img>
        <img src='https://img.shields.io/badge/PHP-%23181717?style=flat-square&logo=php'></img>
        <img src='https://img.shields.io/badge/HTML5-%23181717?style=flat-square&logo=html5'></img>
-       <img src='https://img.shields.io/badge/CSS3-%23181717?style=flat-square&logo=css3'></img>
+       <img src='https://img.shields.io/badge/CSS3-%23181717?style=flat-square&logo=css3&logoColor=1572B6'></img>
        <img src='https://img.shields.io/badge/Sass-%23181717?style=flat-square&logo=sass'></img><br>
        <img src='https://img.shields.io/badge/Bootstrap-%23181717?style=flat-square&logo=bootstrap'></img>
        <img src='https://img.shields.io/badge/Tailwind_CSS-%23181717?style=flat-square&logo=tailwind-css'></img>
