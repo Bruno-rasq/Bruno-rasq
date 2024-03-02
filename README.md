@@ -71,3 +71,5 @@ while(waitingForfeedbacks()){
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rasq&layout=compact'/></img>
     
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bruno-rasq&theme=buefy)](https://git.io/streak-stats)
