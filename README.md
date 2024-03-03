@@ -17,18 +17,16 @@ console.log('Hello World');
    <img src="https://img.shields.io/badge/Linkedin-a88c60?style=flat-square&logo=linkedin&logoColor=fff">
             <a href='#' target='_blank'/>
         </img>
-   <img src="https://img.shields.io/badge/Gmail-A88c60?style=flat-square&logo=gmail&logoColor=fff">
+   <img src="https://img.shields.io/badge/brunodiasrasquinha@gmail.com-A88c60?style=flat-square&logo=gmail&logoColor=fff">
                 <a href='brunodiasrasquinha@gmail.com' target='_blank'/>
             </img>
-   <img src="https://img.shields.io/badge/Replit-a88c60?style=flat-square&logo=replit&logoColor=fff">
-                    <a href='https://replit.com/@brunodiasrasquinha' target='_blank'/>
-                </img>
+   
 </div>
                         
 <br/>
 
 <div>
-   <h4> Tech Stack </h4>
+   <h4> 🚀 Tech Stack && Tools </h4>
     <div>
         <img src="https://img.shields.io/badge/React-%23181717?style=flat-square&logo=react&logoColor=61DAFB"></img>
         <img src='https://img.shields.io/badge/TypeScript-%23181717?style=flat-square&logo=typescript'></img>
@@ -37,12 +35,16 @@ console.log('Hello World');
        <img src='https://img.shields.io/badge/PHP-%23181717?style=flat-square&logo=php'></img>
        <img src='https://img.shields.io/badge/HTML5-%23181717?style=flat-square&logo=html5'></img>
        <img src='https://img.shields.io/badge/CSS3-%23181717?style=flat-square&logo=css3&logoColor=1572B6'></img>
-       <img src='https://img.shields.io/badge/Sass-%23181717?style=flat-square&logo=sass'></img><br>
+       <img src='https://img.shields.io/badge/Sass-%23181717?style=flat-square&logo=sass'></img>
+    <img src='https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github'></img>
        <img src='https://img.shields.io/badge/Bootstrap-%23181717?style=flat-square&logo=bootstrap'></img>
        <img src='https://img.shields.io/badge/Tailwind_CSS-%23181717?style=flat-square&logo=tailwind-css'></img>
        <img src='https://img.shields.io/badge/MySQL-%23181717?style=flat-square&logo=mysql'></img>
         <img src='https://img.shields.io/badge/-jest-%23181717?style=flat-square&logo=jest&logoColor=white'>
     </img>
+        <img src='https://img.shields.io/badge/Replit-%23181717?style=flat-square&logo=replit'></img>
+        <img src='https://img.shields.io/badge/VSCode-%23181717?style=flat-square&logo=visualstudiocode&logoColor=007acc'></img>
+        <img src='https://img.shields.io/badge/XAMPP-%23181717?style=flat-square&logo=xampp'></img>
   </div>
   <br>
 
