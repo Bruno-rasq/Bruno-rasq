@@ -48,7 +48,7 @@ console.log('Hello World');
 
 <br>
 
-<div style="display: flex;">
+<div style="display: flex;" align='center'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rasq&layout=compact'></img>
     <img src='https://media.discordapp.net/attachments/1156087460175040577/1214761832263450675/67e3a584d45f2297fb40c52ace784af6.gif?ex=65fa4a1d&is=65e7d51d&hm=43bec727095f1af2a6b137c6088a45fda0d2ea2fa708c0eff98c905fdb97740e' height='165px' width='200px'></img>
 </div>
