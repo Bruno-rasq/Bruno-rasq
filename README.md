@@ -46,8 +46,12 @@ console.log('Hello World');
         <img src='https://img.shields.io/badge/VSCode-%23181717?style=flat-square&logo=visualstudiocode&logoColor=007acc'></img>
         <img src='https://img.shields.io/badge/XAMPP-%23181717?style=flat-square&logo=xampp'></img>
   </div>
-  <br>
+</div>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rasq&layout=compact'/></img>
-    
+<br>
+
+<div style='display: flex;'>
+    <img src='https://media.discordapp.net/attachments/1156087460175040577/1214761832263450675/67e3a584d45f2297fb40c52ace784af6.gif?ex=65fa4a1d&is=65e7d51d&hm=43bec727095f1af2a6b137c6088a45fda0d2ea2fa708c0eff98c905fdb97740e'></img>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rasq&layout=compact'>
+    </img>
 </div>
