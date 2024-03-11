@@ -43,7 +43,8 @@ console.log('Hello World');
        <img src='https://img.shields.io/badge/Replit-%23181717?style=flat-square&logo=replit'/>
        <img src='https://img.shields.io/badge/VSCode-%23181717?style=flat-square&logo=visualstudiocode&logoColor=007acc'/>
        <img src='https://img.shields.io/badge/XAMPP-%23181717?style=flat-square&logo=xampp'/>
-       <img src='https://img.shields.io/badge/GIT-%23181717?style=flat-square&logo=git'/>
+       <img src='https://img.shields.io/badge/Git-%23181717?style=flat-square&logo=git'/>
+       <img src='https://img.shields.io/badge/Firebase-%23181717?style=flat-square&logo=firebase'/>
    </div>
 </div>
 
