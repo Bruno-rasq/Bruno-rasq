@@ -8,16 +8,16 @@ console.log('Hello World');
 <h6>#DesenvolvimentoWeb #FrontEnd #Estudando... #ErrandoAtéAcertar! </h6>
 
 <div display='flex'>
-    <img src="https://img.shields.io/badge/@001.07.22-528a47?style=flat-square&logo=instagram&logoColor=fff">
+    <img src="https://img.shields.io/badge/@001.07.22-F3F1EA?style=flat-square&logo=instagram&logoColor=372213">
         <a href='https://www.instagram.com/001.07.22?igsh=MWQyeHA2dm9iNDE3aw==' target='_blank'/>
     </img>
-    <img src="https://img.shields.io/badge/Quack_Silver-528a47?style=flat-square&logo=discord&logoColor=fff">
+    <img src="https://img.shields.io/badge/Quack_Silver-F3F1EA?style=flat-square&logo=discord&logoColor=372213">
         <a href='https://discord.com/invite/rFK2tJTr' target='_blank'/>
     </img>
-    <img src="https://img.shields.io/badge/Linkedin-528a47?style=flat-square&logo=linkedin&logoColor=fff">
+    <img src="https://img.shields.io/badge/Linkedin-F3F1EA?style=flat-square&logo=linkedin&logoColor=372213">
         <a href='#' target='_blank'/>
     </img>
-    <img src="https://img.shields.io/badge/Email-528a47?style=flat-square&logo=gmail&logoColor=fff">
+    <img src="https://img.shields.io/badge/Email-F3F1EA?style=flat-square&logo=gmail&logoColor=372213">
         <a href='brunodiasrasquinha@gmail.com' target='_blank'/>
     </img>  
 </div>
