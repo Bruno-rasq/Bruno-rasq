@@ -45,6 +45,7 @@ console.log('Hello World');
        <img src='https://img.shields.io/badge/XAMPP-%23181717?style=flat-square&logo=xampp'/>
        <img src='https://img.shields.io/badge/Git-%23181717?style=flat-square&logo=git'/>
        <img src='https://img.shields.io/badge/Firebase-%23181717?style=flat-square&logo=firebase'/>
+       <img src='https://img.shields.io/badge/Styled--components-%23181717?style=flat-square&logo=styled-components'/>
    </div>
 </div>
 
