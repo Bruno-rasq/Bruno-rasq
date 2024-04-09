@@ -22,7 +22,7 @@ console.log('Hello World');
 <br/>
 <div style="display: flex;">
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rasq&layout=compact&langs_count=10'/>
-    <img src='https://media.discordapp.net/attachments/1156087460175040577/1214761832263450675/67e3a584d45f2297fb40c52ace784af6.gif?ex=65fa4a1d&is=65e7d51d&hm=43bec727095f1af2a6b137c6088a45fda0d2ea2fa708c0eff98c905fdb97740e' height='185px' width='200px'/>
+    <img src='https://cdn.discordapp.com/attachments/1156087460175040577/1227337175469920357/47_Sem_Titulo_20240408062402.jpg?ex=662809d1&is=661594d1&hm=b6ef7cf06b34f58fc333ed46955cffeea6e811aeca863fe283e17356ea6b3bf7' height='185px' width='200px'/>
 </div>
 
 <div>
