@@ -3,9 +3,14 @@ console.log('Hello World');
 ```
 
 <h3> 🤓 Oi! Seja bem-vindo ao meu perfil de estudos</h3>
-<h4>Estudo tecnologias de desenvolvimento web com foco em Front-end. Atualmente estou apenas estudando e desenvolvendo alguns projetos pessoais para meu portifólio e registrando minha evolução...</h4>
 
-<h6>#DesenvolvimentoWeb #FrontEnd #Estudando... #ErrandoAtéAcertar! #React10vsEu0</h6>
+<div align='center'>
+    <img src='https://cdn.discordapp.com/attachments/1156087460175040577/1230702316194369587/61c57b5c3a9e8672cd2c8ba3a2729dfc.gif?ex=663447d9&is=6621d2d9&hm=23cb11e495633787527cc21f12de06bac7973b4bd78f4b6da9679da66343455e' height='185px' width='325px'/>
+</div>
+
+<h4>Olá, meu nome é Bruno e este é meu perfil de estudos, estudo tecnologias de desenvolvimento web com foco em Front-end e Back-end. Atualmente estou apenas estudando e desenvolvendo alguns projetos pessoais para meu portifólio e registrando minha evolução...</h4>
+
+<h6>#DesenvolvimentoWeb #FrontEnd #BackEnd #Estudando... #ErrandoAtéAcertar! #NaoGostoDeReact</h6>
 
 <div display='flex'>
     <img src="https://img.shields.io/badge/@001.07.22-F3F1EA?style=flat-square&logo=instagram&logoColor=372213">
@@ -22,7 +27,6 @@ console.log('Hello World');
 <br/>
 <div style="display: flex;">
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rasq&layout=compact&langs_count=10'/>
-    <img src='https://cdn.discordapp.com/attachments/1156087460175040577/1230702316194369587/61c57b5c3a9e8672cd2c8ba3a2729dfc.gif?ex=663447d9&is=6621d2d9&hm=23cb11e495633787527cc21f12de06bac7973b4bd78f4b6da9679da66343455e' height='185px' width='325px'/>
 </div>
 
 <div>
