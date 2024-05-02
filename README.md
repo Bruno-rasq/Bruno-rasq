@@ -53,6 +53,8 @@ console.log('Hello World');
        <img src='https://img.shields.io/badge/Styled--components-%23181717?style=flat-square&logo=styled-components'/>
        <img src='https://img.shields.io/badge/Python-%23181717?style=flat-square&logo=python'/>
        <img src='https://custom-icon-badges.demolab.com/badge/SQL-%23181717.svg?logo=database&logoColor=white'/>
+       <img src='https://img.shields.io/badge/MongoDB-%23181717?style=flat-square&logo=mongodb'/>
+       <img src='https://img.shields.io/badge/Redis-%23181717?style=flat-square&logo=redis'/>
    </div>
 </div>
 
