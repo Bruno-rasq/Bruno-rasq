@@ -10,7 +10,7 @@ console.log('Hello World');
 
 <h4>Olá, meu nome é Bruno e este é meu perfil de estudos, estudo tecnologias de desenvolvimento web com foco em Front-end e Back-end. Atualmente estou apenas estudando e desenvolvendo alguns projetos pessoais para meu portifólio e registrando minha evolução...</h4>
 
-<h6>#DesenvolvimentoWeb #FrontEnd #BackEnd #Estudando... #ErrandoAtéAcertar! #NaoGostoDeReact</h6>
+<h6>#DesenvolvimentoWeb #FrontEnd #BackEnd #Estudando... #typescript #javascript #python </h6>
 
 <div display='flex'>
     <img src="https://img.shields.io/badge/@001.07.22-F3F1EA?style=flat-square&logo=instagram&logoColor=372213">
@@ -25,8 +25,14 @@ console.log('Hello World');
 </div>
                         
 <br/>
-<div style="display: flex;">
+<div>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rasq&layout=compact&langs_count=10'/>
+</div>
+
+<div>
+    <h4>Main</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='100px' />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='100px' />      
 </div>
 
 <div>
