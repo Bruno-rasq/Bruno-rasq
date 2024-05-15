@@ -1,5 +1,9 @@
 ```javascript
-console.log('Hello World');
+while(1 === 1){
+    Estudar()
+    Praticar()
+    Bugs()
+}
 ```
 
 <h3> 🤓 Oi! Seja bem-vindo ao meu perfil de estudos</h3>
@@ -30,39 +34,43 @@ console.log('Hello World');
 </div>
 
 <div>
-    <h4>Main</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='100px' />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='100px' />      
+    <h4> 👾 [ESTUDOS] Tecnologias/ferramentas em foco. 👾</h4>
+    <img src='https://img.shields.io/badge/TypeScript-%23181717?style=flat-square&logo=typescript'/>
+    <img src='https://img.shields.io/badge/JavaScript-%23181717?style=flat-square&logo=javascript'/>
+    <img src='https://img.shields.io/badge/Node.js-%23181717?style=flat-square&logo=node.js'/>
+    <img src='https://img.shields.io/badge/Python-%23181717?style=flat-square&logo=python'/>
+    <img src='https://custom-icon-badges.demolab.com/badge/SQL-%23181717.svg?logo=database&logoColor=white'/>
+    <img src='https://img.shields.io/badge/Git-%23181717?style=flat-square&logo=git'/>
+    <img src='https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github'/>
 </div>
 
 <div>
-   <h4> 🛠️ Tech Stack && Tools 🛠️</h4>
-   <div>
-       <img src="https://img.shields.io/badge/React-%23181717?style=flat-square&logo=react&logoColor=61DAFB"/>
-       <img src='https://img.shields.io/badge/TypeScript-%23181717?style=flat-square&logo=typescript'/>
-       <img src='https://img.shields.io/badge/JavaScript-%23181717?style=flat-square&logo=javascript'/>
-       <img src='https://img.shields.io/badge/Node.js-%23181717?style=flat-square&logo=node.js'/>
-       <img src='https://img.shields.io/badge/PHP-%23181717?style=flat-square&logo=php'/>
-       <img src='https://img.shields.io/badge/HTML5-%23181717?style=flat-square&logo=html5'/>
-       <img src='https://img.shields.io/badge/CSS3-%23181717?style=flat-square&logo=css3&logoColor=1572B6'/>
-       <img src='https://img.shields.io/badge/Sass-%23181717?style=flat-square&logo=sass'/>
-       <img src='https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github'/>
-       <img src='https://img.shields.io/badge/Bootstrap-%23181717?style=flat-square&logo=bootstrap'/>
-       <img src='https://img.shields.io/badge/Tailwind_CSS-%23181717?style=flat-square&logo=tailwind-css'/>
-       <img src='https://img.shields.io/badge/MySQL-%23181717?style=flat-square&logo=mysql'/>
-       <img src='https://img.shields.io/badge/-jest-%23181717?style=flat-square&logo=jest&logoColor=white'/>
-       <img src='https://img.shields.io/badge/Replit-%23181717?style=flat-square&logo=replit'/>
-       <img src='https://img.shields.io/badge/VSCode-%23181717?style=flat-square&logo=visualstudiocode&logoColor=007acc'/>
-       <img src='https://img.shields.io/badge/XAMPP-%23181717?style=flat-square&logo=xampp'/>
-       <img src='https://img.shields.io/badge/Git-%23181717?style=flat-square&logo=git'/>
-       <img src='https://img.shields.io/badge/Firebase-%23181717?style=flat-square&logo=firebase'/>
-       <img src='https://img.shields.io/badge/Styled--components-%23181717?style=flat-square&logo=styled-components'/>
-       <img src='https://img.shields.io/badge/Python-%23181717?style=flat-square&logo=python'/>
-       <img src='https://custom-icon-badges.demolab.com/badge/SQL-%23181717.svg?logo=database&logoColor=white'/>
-       <img src='https://img.shields.io/badge/MongoDB-%23181717?style=flat-square&logo=mongodb'/>
-       <img src='https://img.shields.io/badge/Redis-%23181717?style=flat-square&logo=redis'/>
-       <img src='https://img.shields.io/badge/SQLite3-%23181717?style=flat-square&logo=sqlite'/>
-   </div>
+   <h4> 🛠️ [ESTUDOS] Ferramentas/linguagens que estudo ocasionalmente. 🛠️</h4>
+   <img src="https://img.shields.io/badge/React-%23181717?style=flat-square&logo=react&logoColor=61DAFB"/>
+   <img src='https://img.shields.io/badge/PHP-%23181717?style=flat-square&logo=php'/>
+   <img src='https://img.shields.io/badge/HTML5-%23181717?style=flat-square&logo=html5'/>
+   <img src='https://img.shields.io/badge/CSS3-%23181717?style=flat-square&logo=css3&logoColor=1572B6'/>
+   <img src='https://img.shields.io/badge/Sass-%23181717?style=flat-square&logo=sass'/>
+   <img src='https://img.shields.io/badge/Bootstrap-%23181717?style=flat-square&logo=bootstrap'/>
+   <img src='https://img.shields.io/badge/Tailwind_CSS-%23181717?style=flat-square&logo=tailwind-css'/>
+   <img src='https://img.shields.io/badge/MySQL-%23181717?style=flat-square&logo=mysql'/>
+   <img src='https://img.shields.io/badge/-jest-%23181717?style=flat-square&logo=jest&logoColor=white'/>
+   <img src='https://img.shields.io/badge/Replit-%23181717?style=flat-square&logo=replit'/>
+   <img src='https://img.shields.io/badge/VSCode-%23181717?style=flat-square&logo=visualstudiocode&logoColor=007acc'/>
+   <img src='https://img.shields.io/badge/XAMPP-%23181717?style=flat-square&logo=xampp'/>
+   <img src='https://img.shields.io/badge/Firebase-%23181717?style=flat-square&logo=firebase'/>
+   <img src='https://img.shields.io/badge/Styled--components-%23181717?style=flat-square&logo=styled-components'/>
+   <img src='https://img.shields.io/badge/SQLite3-%23181717?style=flat-square&logo=sqlite'/>
+</div>
+
+<div>
+    <h4> 🧑‍💻 [INTERESSE] ferramentas/tecnologias que tenho interesse em aprender. 🧑‍💻</h4>
+    <img src='https://img.shields.io/badge/MongoDB-%23181717?style=flat-square&logo=mongodb'/>
+    <img src='https://img.shields.io/badge/Redis-%23181717?style=flat-square&logo=redis'/>
+    <img src='https://img.shields.io/badge/Postman-%23181717?style=flat-square&logo=postman'/>
+    <img src='https://img.shields.io/badge/Docker-%23181717?style=flat-square&logo=docker'/>
+    <img src='https://img.shields.io/badge/PostgreSQL-%23181717?style=flat-square&logo=postgresql'/>
+    <img src='https://img.shields.io/badge/FastAPI-%23181717?style=flat-square&logo=fastapi'/>
 </div>
 
 <div>
