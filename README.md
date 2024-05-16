@@ -12,7 +12,7 @@ while(1 === 1){
     <img src='https://cdn.discordapp.com/attachments/1156087460175040577/1230702316194369587/61c57b5c3a9e8672cd2c8ba3a2729dfc.gif?ex=663447d9&is=6621d2d9&hm=23cb11e495633787527cc21f12de06bac7973b4bd78f4b6da9679da66343455e' height='185px' width='325px'/>
 </div>
 
-<h4>Olá, meu nome é Bruno e este é meu perfil de estudos, estudo tecnologias de desenvolvimento web com foco em Front-end e Back-end. Atualmente estou apenas estudando e desenvolvendo alguns projetos pessoais para meu portifólio e registrando minha evolução...</h4>
+<h4>Olá, meu nome é Bruno e este é meu perfil de estudos em tecnologias de desenvolvimento web com foco em Front-end e Back-end. Atualmente estou apenas estudando e desenvolvendo alguns projetos pessoais para meu portifólio e registrando minha evolução... Gosto muito dos direcionamentos dispostos por formações, cursos e bootcamps mas sempre que possível busco estudar por conta própria e pratica constante.</h4>
 
 <h6>#DesenvolvimentoWeb #FrontEnd #BackEnd #Estudando... #typescript #javascript #python </h6>
 
@@ -35,6 +35,7 @@ while(1 === 1){
 
 <div>
     <h4> 👾 [ESTUDOS] Tecnologias/ferramentas em foco. 👾</h4>
+    <p> Essas são as principais tecnologias, linguagens de programação e ferramentas na qual estou estudando. com foco em em aprofundamento. são com elas que desenvolvo meus projetos, estudo e prático com foco em desenvolvimento pessoal técnico. então pode me perguntar o que quiser sobre, se eu não souber ta ai mais uma coisa para aprender.</p>
     <img src='https://img.shields.io/badge/TypeScript-%23181717?style=flat-square&logo=typescript'/>
     <img src='https://img.shields.io/badge/JavaScript-%23181717?style=flat-square&logo=javascript'/>
     <img src='https://img.shields.io/badge/Node.js-%23181717?style=flat-square&logo=node.js'/>
@@ -46,6 +47,7 @@ while(1 === 1){
 
 <div>
    <h4> 🛠️ [ESTUDOS] Ferramentas/linguagens que estudo ocasionalmente. 🛠️</h4>
+   <p> Estas são as ferramentas que estudo ocasionalmente para desenvolvimento de projetos, ou durante aulas dos cursos e bootcamps e também na realização de alguns projetos pessoais. aqui meu conheço é básico, somente o essencial para utilizar-lás porém obviamente assim que surgir a necessidade ou tempo espero dar um foco a mais e me aprofundar melhor em casa uma.</p>
    <img src="https://img.shields.io/badge/React-%23181717?style=flat-square&logo=react&logoColor=61DAFB"/>
    <img src='https://img.shields.io/badge/PHP-%23181717?style=flat-square&logo=php'/>
    <img src='https://img.shields.io/badge/HTML5-%23181717?style=flat-square&logo=html5'/>
@@ -61,6 +63,8 @@ while(1 === 1){
    <img src='https://img.shields.io/badge/Firebase-%23181717?style=flat-square&logo=firebase'/>
    <img src='https://img.shields.io/badge/Styled--components-%23181717?style=flat-square&logo=styled-components'/>
    <img src='https://img.shields.io/badge/SQLite3-%23181717?style=flat-square&logo=sqlite'/>
+   <img src='https://img.shields.io/badge/chatGPT-%23181717?style=flat-square&logo=openai'/>
+   <img src='https://img.shields.io/badge/NPM-%23181717?style=flat-square&logo=npm'/>
 </div>
 
 <div>
@@ -74,6 +78,6 @@ while(1 === 1){
 </div>
 
 <div>
-    <h4>Bootcamps </h4>
+    <h4> 🦾 Bootcamps Realizados🦾 </h4>
     <img src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png" height="100px"/>
 </div>
