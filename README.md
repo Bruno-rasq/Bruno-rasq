@@ -34,8 +34,7 @@ while(1 === 1){
 </div>
 
 <div>
-    <h4> 👾 [ESTUDOS] Tecnologias/ferramentas em foco. 👾</h4>
-    <p> Essas são as principais tecnologias, linguagens de programação e ferramentas na qual estou estudando. com foco em em aprofundamento. são com elas que desenvolvo meus projetos, estudo e prático com foco em desenvolvimento pessoal técnico. então pode me perguntar o que quiser sobre, se eu não souber ta ai mais uma coisa para aprender.</p>
+    <h4> 👾 [ ESTUDOS - foco em aprofundamento ]. 👾</h4>
     <img src='https://img.shields.io/badge/TypeScript-%23181717?style=flat-square&logo=typescript'/>
     <img src='https://img.shields.io/badge/JavaScript-%23181717?style=flat-square&logo=javascript'/>
     <img src='https://img.shields.io/badge/Node.js-%23181717?style=flat-square&logo=node.js'/>
@@ -46,8 +45,7 @@ while(1 === 1){
 </div>
 
 <div>
-   <h4> 🛠️ [ESTUDOS] Ferramentas/linguagens que estudo ocasionalmente. 🛠️</h4>
-   <p> Estas são as ferramentas que estudo ocasionalmente para desenvolvimento de projetos, ou durante aulas dos cursos e bootcamps e também na realização de alguns projetos pessoais. aqui meu conheço é básico, somente o essencial para utilizar-lás porém obviamente assim que surgir a necessidade ou tempo espero dar um foco a mais e me aprofundar melhor em casa uma.</p>
+   <h4> 🛠️ [ ESTUDOS - conhecimentos básicos ]. 🛠️</h4>
    <img src="https://img.shields.io/badge/React-%23181717?style=flat-square&logo=react&logoColor=61DAFB"/>
    <img src='https://img.shields.io/badge/PHP-%23181717?style=flat-square&logo=php'/>
    <img src='https://img.shields.io/badge/HTML5-%23181717?style=flat-square&logo=html5'/>
@@ -75,9 +73,10 @@ while(1 === 1){
     <img src='https://img.shields.io/badge/Docker-%23181717?style=flat-square&logo=docker'/>
     <img src='https://img.shields.io/badge/PostgreSQL-%23181717?style=flat-square&logo=postgresql'/>
     <img src='https://img.shields.io/badge/FastAPI-%23181717?style=flat-square&logo=fastapi'/>
+    <img src='https://img.shields.io/badge/Gulp-%23181717?style=flat-square&logo=gulp'/>
 </div>
 
 <div>
-    <h4> 🦾 Bootcamps Realizados🦾 </h4>
+    <h4> 🦾 Bootcamps Realizados. 🦾 </h4>
     <img src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png" height="100px"/>
 </div>
