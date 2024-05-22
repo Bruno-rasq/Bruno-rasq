@@ -1,22 +1,18 @@
 ```javascript
-while(1 === 1){
-    Estudar()
-    Praticar()
-    Bugs()
-}
+console.log("Hello world")
 ```
 
 <h3> 🤓 Oi! Seja bem-vindo ao meu perfil de estudos</h3>
 
-<div align='center'>
+<!--<div align='center'>
     <img src='https://cdn.discordapp.com/attachments/1156087460175040577/1230702316194369587/61c57b5c3a9e8672cd2c8ba3a2729dfc.gif?ex=663447d9&is=6621d2d9&hm=23cb11e495633787527cc21f12de06bac7973b4bd78f4b6da9679da66343455e' height='185px' width='325px'/>
-</div>
+</div>-->
 
 <h4>Olá, meu nome é Bruno e este é meu perfil de estudos em tecnologias de desenvolvimento web com foco em Front-end e Back-end. Atualmente estou apenas estudando e desenvolvendo alguns projetos pessoais para meu portifólio e registrando minha evolução... Gosto muito dos direcionamentos dispostos por formações, cursos e bootcamps mas sempre que possível busco estudar por conta própria e pratica constante.</h4>
 
-<h6>#DesenvolvimentoWeb #FrontEnd #BackEnd #Estudando... #typescript #javascript #python </h6>
+<!--<h6>#DesenvolvimentoWeb #FrontEnd #BackEnd #Estudando... #typescript #javascript #python </h6>-->
 
-<div display='flex'>
+<!--<div display='flex'>
     <img src="https://img.shields.io/badge/@001.07.22-F3F1EA?style=flat-square&logo=instagram&logoColor=372213">
         <a href='https://www.instagram.com/001.07.22?igsh=MWQyeHA2dm9iNDE3aw==' target='_blank'/>
     </img>
@@ -26,7 +22,7 @@ while(1 === 1){
     <img src="https://img.shields.io/badge/Email-F3F1EA?style=flat-square&logo=gmail&logoColor=372213">
         <a href='brunodiasrasquinha@gmail.com' target='_blank'/>
     </img>  
-</div>
+</div>-->
                         
 <br/>
 <div>
@@ -38,14 +34,14 @@ while(1 === 1){
     <img src='https://img.shields.io/badge/TypeScript-%23181717?style=flat-square&logo=typescript'/>
     <img src='https://img.shields.io/badge/JavaScript-%23181717?style=flat-square&logo=javascript'/>
     <img src='https://img.shields.io/badge/Node.js-%23181717?style=flat-square&logo=node.js'/>
-    <img src='https://img.shields.io/badge/Python-%23181717?style=flat-square&logo=python'/>
-    <img src='https://custom-icon-badges.demolab.com/badge/SQL-%23181717.svg?logo=database&logoColor=white'/>
-    <img src='https://img.shields.io/badge/Git-%23181717?style=flat-square&logo=git'/>
-    <img src='https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github'/>
 </div>
 
 <div>
    <h4> 🛠️ [ ESTUDOS - conhecimentos básicos ]. 🛠️</h4>
+    <img src='https://img.shields.io/badge/Python-%23181717?style=flat-square&logo=python'/>
+    <img src='https://custom-icon-badges.demolab.com/badge/SQL-%23181717.svg?logo=database&logoColor=white'/>
+    <img src='https://img.shields.io/badge/Git-%23181717?style=flat-square&logo=git'/>
+    <img src='https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github'/>
    <img src="https://img.shields.io/badge/React-%23181717?style=flat-square&logo=react&logoColor=61DAFB"/>
    <img src='https://img.shields.io/badge/PHP-%23181717?style=flat-square&logo=php'/>
    <img src='https://img.shields.io/badge/HTML5-%23181717?style=flat-square&logo=html5'/>
