@@ -59,6 +59,7 @@ console.log("Hello world")
    <img src='https://img.shields.io/badge/SQLite3-%23181717?style=flat-square&logo=sqlite'/>
    <img src='https://img.shields.io/badge/chatGPT-%23181717?style=flat-square&logo=openai'/>
    <img src='https://img.shields.io/badge/NPM-%23181717?style=flat-square&logo=npm'/>
+   <img src='https://img.shields.io/badge/FastAPI-%23181717?style=flat-square&logo=fastapi'/>
 </div>
 
 <div>
@@ -68,7 +69,6 @@ console.log("Hello world")
     <img src='https://img.shields.io/badge/Postman-%23181717?style=flat-square&logo=postman'/>
     <img src='https://img.shields.io/badge/Docker-%23181717?style=flat-square&logo=docker'/>
     <img src='https://img.shields.io/badge/PostgreSQL-%23181717?style=flat-square&logo=postgresql'/>
-    <img src='https://img.shields.io/badge/FastAPI-%23181717?style=flat-square&logo=fastapi'/>
     <img src='https://img.shields.io/badge/Gulp-%23181717?style=flat-square&logo=gulp'/>
 </div>
 
