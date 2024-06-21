@@ -34,14 +34,15 @@ console.log("Hello world")
     <img src='https://img.shields.io/badge/TypeScript-%23181717?style=flat-square&logo=typescript'/>
     <img src='https://img.shields.io/badge/JavaScript-%23181717?style=flat-square&logo=javascript'/>
     <img src='https://img.shields.io/badge/Node.js-%23181717?style=flat-square&logo=node.js'/>
+    <img src='https://img.shields.io/badge/Python-%23181717?style=flat-square&logo=python'/>
 </div>
 
 <div>
    <h4> 🛠️ [ ESTUDOS - conhecimentos básicos ]. 🛠️</h4>
-    <img src='https://img.shields.io/badge/Python-%23181717?style=flat-square&logo=python'/>
-    <img src='https://custom-icon-badges.demolab.com/badge/SQL-%23181717.svg?logo=database&logoColor=white'/>
-    <img src='https://img.shields.io/badge/Git-%23181717?style=flat-square&logo=git'/>
-    <img src='https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github'/>
+    
+   <img src='https://custom-icon-badges.demolab.com/badge/SQL-%23181717.svg?logo=database&logoColor=white'/>
+   <img src='https://img.shields.io/badge/Git-%23181717?style=flat-square&logo=git'/>
+   <img src='https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github'/>
    <img src="https://img.shields.io/badge/React-%23181717?style=flat-square&logo=react&logoColor=61DAFB"/>
    <img src='https://img.shields.io/badge/PHP-%23181717?style=flat-square&logo=php'/>
    <img src='https://img.shields.io/badge/HTML5-%23181717?style=flat-square&logo=html5'/>
@@ -60,6 +61,7 @@ console.log("Hello world")
    <img src='https://img.shields.io/badge/chatGPT-%23181717?style=flat-square&logo=openai'/>
    <img src='https://img.shields.io/badge/NPM-%23181717?style=flat-square&logo=npm'/>
    <img src='https://img.shields.io/badge/FastAPI-%23181717?style=flat-square&logo=fastapi'/>
+   <img src='https://img.shields.io/badge/Pytest-%23181717?style=flat-square&logo=pytest'/>
 </div>
 
 <div>
