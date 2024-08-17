@@ -1,5 +1,5 @@
 ```curl
-GET  /devs/estudantes?name='Rasq'
+GET  /devs/estudantes?name=Rasq
 ```
 <!--
 Olá, Bem-vindo ao meu perfil de estudos. meu nome é Bruno, estudo programação há mais ou menos 2 anos
